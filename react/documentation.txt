@@ -1,0 +1,8 @@
+1.)  npx create-react-app app_name -: command to create a react app
+
+npx is node package extension which lets us install packages without downloading them.
+
+2.) Go inside folder app_name and write "npm start" to start the development server.
+  server starts on localhost 3000
+  
+3.)
