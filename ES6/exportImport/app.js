@@ -5,7 +5,6 @@ import {data as da} from './sell.js' //importing data variable as name da
 hello()
 console.log(da)
 
-
 //to import all the properties at once
 import * as bundle from './sell.js'
 bundle.hello()

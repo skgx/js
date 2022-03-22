@@ -1,5 +1,5 @@
 const promiseObject=fetch('/data.json')
-//promises to reolve a value in future
+//promises to resolve a value in future
 
 promiseObject.then(response=>{
     // console.log(response)
