@@ -4,6 +4,7 @@ const arr=[1,"saurabh",true]
 const null1=null //this says that this variable should be null
 
 const bigInt=1111111111111111111111111n
+//A BigInt value, also sometimes just called a BigInt, is a bigint primitive, created by appending n to the end of an integer literal,
 console.log(null1)
 console.log(undef)
 

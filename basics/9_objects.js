@@ -13,5 +13,6 @@ const myObject = {
 console.log(myObject)
 console.log(myObject['roll'])             //2006335
 console.log(myObject['another']['grade']) //A
+console.log(myObject.roll);//2006335
 console.log(myObject.another['marks'])    //90
 
